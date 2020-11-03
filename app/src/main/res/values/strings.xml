@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">thermostat</string>
+    <string name="image">image</string>
+    <string name="central_heating_on">Central Heating ON</string>
+    <string name="double_zero">00</string>
+    <string name="current_temperature">Current Temperature</string>
+    <string name="celsius">℃</string>
+    <string name="set_temperature">Set Temperature</string>
+    <string name="welcome">Wellcome to HERA</string>
+    <string name="temperature_pattern">--,-</string>
+    <string name="central_heating_off">Central Heating OFF</string>
+    <string name="searching">Searching...</string>
+    <string name="connected">Thermostat connected.</string>
+    <string name="not_found">Thermostat not found!</string>
+    <string name="domain_hint">Add domain here...</string>
+    <string name="port_hint">Add port number here...</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="extern">Extern</string>
+    <string name="central_heating">Central Heating</string>
+</resources>
